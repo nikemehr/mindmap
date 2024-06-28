@@ -1,13 +1,13 @@
 <section id="content">
 <div markdown="1">
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
+# <a id="works" href="#works">👨🏻‍💻 Portfolio</a>
 
-* ### Teacher of neural networks courses
+* ### Genetic Algorithm
 
-    *2020-2022 Lomonosov Moscow State University*
+    *Searching for password*
 
-    I teach a one-year Neural Networks course for postgraduate MSU students. [The course](https://msu.ai) covers a wide range of neural networks types, deals with solving various problems. In the second part of the course, students did implement neural networks in their scientific work under my guidance
+    In this code, I want to find the given password by using the genetic algorithm. let's assume the password consists of a combination of uppercase letters, lowercase letters, digits, and special characters. The length of the password is also unknown, however we know the minimum and maximum length of the password. Click [here] (https://github.com/nikemehr/Optimization/blob/main/GA_Password.py) to see the code in github.
 
 * ### Deep Learning Engineer, Python developer
 
