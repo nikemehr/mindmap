@@ -9,6 +9,10 @@
 
     In this code, I want to find the given password by using the genetic algorithm. let's assume the password consists of a combination of uppercase letters, lowercase letters, digits, and special characters. The length of the password is also unknown, however we know the minimum and maximum length of the password. Click *[here](https://github.com/nikemehr/Optimization/blob/main/GA_Password.py)* to see the code in github.
 
+  *Travelling Salesman Problem*
+In this code, which addresses a simple logistics optimization problem, I have used a genetic algorithm to find the best route for traveling through all cities and returning to the starting point. To see the code in github click *[here](https://github.com/nikemehr/Optimization/blob/main/TSP_GA.py).*
+  
+
 * ### Deep Learning Engineer, Python developer
 
     *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
