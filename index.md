@@ -7,7 +7,7 @@
 
     *Finding the Password*
 
-    In this code, I want to find the given password by using the genetic algorithm. let's assume the password consists of a combination of uppercase letters, lowercase letters, digits, and special characters. The length of the password is also unknown, however we know the minimum and maximum length of the password. Click *[here]* (https://github.com/nikemehr/Optimization/blob/main/GA_Password.py) to see the code in github.
+    In this code, I want to find the given password by using the genetic algorithm. let's assume the password consists of a combination of uppercase letters, lowercase letters, digits, and special characters. The length of the password is also unknown, however we know the minimum and maximum length of the password. Click *[here](https://github.com/nikemehr/Optimization/blob/main/GA_Password.py)* to see the code in github.
 
 * ### Deep Learning Engineer, Python developer
 
