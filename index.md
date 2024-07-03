@@ -3,22 +3,23 @@
 
 # <a id="works" href="#works">👨🏻‍💻 Portfolio</a>
 
-* ### Genetic Algorithm
+* ### Optimization
 
-    *Finding the Password*
+    *Finding the Password by Genetic Algorithm*
 
     In this code, I want to find the given password by using the genetic algorithm. let's assume the password consists of a combination of uppercase letters, lowercase letters, digits, and special characters. The length of the password is also unknown, however we know the minimum and maximum length of the password. Click *[here](https://github.com/nikemehr/Optimization/blob/main/GA_Password.py)* to see the code in github.
 
-  *Travelling Salesman Problem*
+  *Travelling Salesman Problem by Using Genetic Algorithm*
 
   In this code, which addresses a simple logistics optimization problem, I have used a genetic algorithm to find the best route for traveling through all cities and returning to the starting point. To see the code in github click *[here](https://github.com/nikemehr/Optimization/blob/main/TSP_GA.py).*
   
 
-* ### Deep Learning Engineer, Python developer
+* ### Machine Learning
 
-    *2020-2024 [Center of Engineering Physics](https://engineering.phys.msu.ru/ru/) at Lomonosov Moscow State University*
+    *Forecasting Housing Prices*
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My responsibilities are write Python code, modules, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+    In this study I not only aim to provide reliable price forecasts but also seeks to uncover deeper insights into the various determinants of housing prices. This initiative underscores the importance of understanding market dynamics and the potential of data-driven approaches to enhance transparency and efficiency in the real estate market. To see it in detail click *[here](https://github.com/nikemehr/ML/blob/main/Houses_Prices_Forecasting.ipynb).*
+  
 
 * ### DL-engineer
 
